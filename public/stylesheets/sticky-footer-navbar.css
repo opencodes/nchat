@@ -47,3 +47,8 @@ code {
 .chat-log {
   min-height: 500px;
 }
+#chat-log {
+  max-height: 459px;
+  min-height: 459px;
+  overflow: scroll;
+}
